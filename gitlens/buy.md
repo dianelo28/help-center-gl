@@ -1,7 +1,9 @@
 ---
 
-title: How to buy
+title: How to buy - GitLens
 description: Learn how to buy your GitKraken Pro subscription.
+taxonomy:
+    doc_category: gitlens
 
 ---
 
